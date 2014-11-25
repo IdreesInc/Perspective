@@ -1,0 +1,20 @@
+Z:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\obj\x86\Debug\Perspective Library.csprojResolveAssemblyReference.cache
+Z:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Perspective Library.exe
+Z:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Perspective Library.pdb
+Z:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\obj\x86\Debug\Perspective Library.exe
+Z:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\obj\x86\Debug\Perspective Library.pdb
+Z:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Content\BrownBird - 1.xnb
+Z:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Content\BrownBird - 2.xnb
+Z:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Content\BrownBird - 3.xnb
+Z:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Content\Forest.xnb
+E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Content\BrownBird - 1.xnb
+E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Content\BrownBird - 2.xnb
+E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Content\BrownBird - 3.xnb
+E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Content\Forest.xnb
+E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Perspective Library.exe
+E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Perspective Library.pdb
+E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\obj\x86\Debug\Perspective Library.csprojResolveAssemblyReference.cache
+E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\obj\x86\Debug\Perspective Library.exe
+E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\obj\x86\Debug\Perspective Library.pdb

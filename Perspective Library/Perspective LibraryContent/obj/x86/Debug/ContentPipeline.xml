@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BrownBird - 1.png</Source>
+      <Name>BrownBird - 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Content\BrownBird - 1.xnb</Output>
+      <Time>2014-11-24T18:36:30.0208418-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BrownBird - 2.png</Source>
+      <Name>BrownBird - 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Content\BrownBird - 2.xnb</Output>
+      <Time>2014-11-24T18:36:30.0258442-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BrownBird - 3.png</Source>
+      <Name>BrownBird - 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Content\BrownBird - 3.xnb</Output>
+      <Time>2014-11-24T18:36:30.0398332-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Forest.png</Source>
+      <Name>Forest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Content\Forest.xnb</Output>
+      <Time>2014-11-24T19:30:14.9234351-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Files\Programs\Perspective Library\Perspective Library\Perspective LibraryContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Files\Programs\Perspective Library\Perspective Library\Perspective LibraryContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Files\Programs\Perspective Library\Perspective Library\Perspective Library\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-06-25T16:04:45.2224256-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
